@@ -1,0 +1,2 @@
+# xtbunitroot
+Unit root tests for panel data with structural breaks. The tests were developed by Karavias and Tzavalis (2014) Use xtbunitroot With STATA 19
